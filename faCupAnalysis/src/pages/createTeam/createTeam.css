@@ -1,0 +1,64 @@
+body,
+html {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif; /* Setting font family */
+  background-color: #f0f0f0; /* Setting background color */
+  color: #333; /* Setting text color */
+  background-image: url("../../../public/IMG/report.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  width: 50%;
+  max-width: 600px;
+  margin: 120px 0 50px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+input[type="text"],
+input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.form-group-inline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.form-group-inline label {
+  flex: 1;
+}
+.form-group-inline input[type="number"] {
+  flex: 2;
+  margin-left: 10px;
+}
+.submit-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background-color: #45a049;
+}

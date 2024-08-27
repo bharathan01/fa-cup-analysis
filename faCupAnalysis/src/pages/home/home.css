@@ -1,0 +1,54 @@
+/* General Styles */
+
+/* Resetting default margin, padding, and height */
+body,
+html {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif; /* Setting font family */
+  background-color: #f0f0f0; /* Setting background color */
+  color: #333; /* Setting text color */
+}
+
+/* Styling the background image section */
+.background-image {
+  background-image: url("../../../../Task-2/public/IMG/home.jpg");
+  background-size: cover; /* Making background image cover entire container */
+  background-position: center; /* Centering the background image */
+  height: 100vh; /* Setting height to fill viewport minus header and footer */
+  display: flex; /* Using flexbox for layout */
+  justify-content: center; /* Centering content horizontally */
+  align-items: center; /* Centering content vertically */
+  color: #fff; /* Setting text color */
+  text-align: center; /* Centering text */
+  position: relative; /* Setting position to relative */
+}
+
+.background-image::before {
+  content: ""; /* Adding pseudo-element */
+  position: absolute; /* Positioning the pseudo-element */
+  top: 0; /* Setting distance from top */
+  left: 0; /* Setting distance from left */
+  width: 100%; /* Setting width */
+  height: 100%; /* Setting height */
+  background: rgba(0, 0, 0, 0.5); /* Adding dark overlay */
+  z-index: 1; /* Setting z-index */
+}
+
+.intro-container {
+  position: relative; /* Setting position to relative */
+  z-index: 2; /* Setting z-index */
+  background-color: rgba(255, 255, 255, 0.314); /* Setting background color with opacity */
+  padding: 30px; /* Setting padding */
+  border-radius: 10px; /* Adding border radius */
+  max-width: 600px; /* Setting maximum width */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adding box shadow */
+}
+
+.intro-container p {
+  font-size: 1.2em; /* Setting font size */
+  margin: 0; /* Removing default margin */
+}
+
+

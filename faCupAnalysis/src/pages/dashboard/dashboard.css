@@ -1,0 +1,116 @@
+/* General Styles */
+
+/* Resetting default margin, padding, and height */
+body,
+html {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif; /* Setting font family */
+  background: #333; /* Setting background color */ /* Setting text color */
+  background-image: url("../../../public/IMG/dashboard.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* Styling the background image section */
+.background-image {
+  display: flex;
+  min-height: 100vh; /* Using flexbox for layout */
+  justify-content: center; /* Centering content horizontally */
+  align-items: center; /* Centering content vertically */
+  text-align: center; /* Centering text */
+  position: relative; /* Setting position to relative */
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 60px;
+  flex-direction: column;
+}
+.form-table {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.report {
+  width: 75%;
+  display: flex;
+  justify-content: end;
+  margin-top: 20px;
+}
+.report button {
+  padding: 10px;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in;
+}
+
+.report button:hover {
+  background-color: white;
+  color: black;
+}
+
+.league-table {
+  width: 80%;
+  height: 80%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.league-table table thead {
+  height: 50px;
+  background-color: #ffffff;
+}
+
+.td-tr-style {
+  border-bottom: 1px solid #333;
+  padding: 10px;
+  background-color: #f7f7f5;
+  text-align: center;
+}
+.select-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.option-btn {
+  padding: 5px;
+  color: white;
+}
+.update-btn {
+  background-color: green;
+  margin: 10px;
+  border: none;
+  color: white;
+  padding: 4px;
+}
+.delete-btn {
+  background-color: red;
+  margin: 10px;
+  padding: 4px;
+  border: none;
+  color: white;
+}
+.delete-btn:hover{
+  cursor: pointer;
+}
+.table-th {
+  background-color: #ddff00;
+}
+.form-td {
+  padding: 0px 5px 0px 5px;
+}
+.form-td img {
+  width: 15px;
+}

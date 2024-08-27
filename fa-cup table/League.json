@@ -1,0 +1,1677 @@
+{
+  "FootballScoresAndFixtures": [
+    {
+     "Date": "Sat Nov 4, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Barnsley FC",
+     "Result": "03:03",
+     "Away team": "Horsham"
+    },
+    {
+     "Home team": "Sheppey United",
+     "Result": "01:04",
+     "Away team": "Walsall"
+    },
+    {
+     "Time": "6:00 PM",
+     "Home team": "Northampton",
+     "Result": "01:03",
+     "Away team": "Barrow"
+    },
+    {
+     "Time": "7:30 PM",
+     "Home team": "Chester FC",
+     "Result": "00:00",
+     "Away team": "York City"
+    },
+    {
+     "Home team": "Bolton",
+     "Result": "04:00",
+     "Away team": "Solihull Moors"
+    },
+    {
+     "Home team": "Stevenage",
+     "Result": "04:03",
+     "Away team": "Tranmere Rovers"
+    },
+    {
+     "Home team": "Peterborough",
+     "Result": "02:02",
+     "Away team": "Salford"
+    },
+    {
+     "Home team": "Lincoln City",
+     "Result": "01:02",
+     "Away team": "Morecambe FC"
+    },
+    {
+     "Home team": "Doncaster",
+     "Result": "02:02",
+     "Away team": "Accrington"
+    },
+    {
+     "Home team": "Bristol Rovers",
+     "Result": "07:02",
+     "Away team": "Whitby"
+    },
+    {
+     "Home team": "Sutton Utd",
+     "Result": "02:01",
+     "Away team": "Fylde"
+    },
+    {
+     "Home team": "Ramsgate",
+     "Result": "02:01",
+     "Away team": "Woking"
+    },
+    {
+     "Home team": "Newport County",
+     "Result": "02:00",
+     "Away team": "Oldham Athletic"
+    },
+    {
+     "Home team": "Exeter City",
+     "Result": "00:02",
+     "Away team": "Wigan"
+    },
+    {
+     "Home team": "Chesham",
+     "Result": "00:02",
+     "Away team": "Maidstone"
+    },
+    {
+     "Home team": "Alfreton",
+     "Result": "02:00",
+     "Away team": "Worthing"
+    },
+    {
+     "Home team": "Yeovil Town",
+     "Result": "03:02",
+     "Away team": "Gateshead"
+    },
+    {
+     "Home team": "Shrewsbury",
+     "Result": "03:02",
+     "Away team": "Colchester Utd."
+    },
+    {
+     "Home team": "Oxford United",
+     "Result": "02:00",
+     "Away team": "Maidenhead Utd."
+    },
+    {
+     "Home team": "Leyton Orient",
+     "Result": "03:01",
+     "Away team": "Carlisle United"
+    },
+    {
+     "Home team": "Curzon Ashton",
+     "Result": "00:01",
+     "Away team": "Barnet"
+    },
+    {
+     "Home team": "Bradford",
+     "Result": "01:02",
+     "Away team": "Wycombe"
+    },
+    {
+     "Home team": "Stockport",
+     "Result": "05:01",
+     "Away team": "Worksop"
+    },
+    {
+     "Home team": "Port Vale",
+     "Result": "00:00",
+     "Away team": "Burton Albion"
+    },
+    {
+     "Home team": "Marine FC",
+     "Result": "01:05",
+     "Away team": "Harrogate Town"
+    },
+    {
+     "Home team": "Eastleigh",
+     "Result": "05:01",
+     "Away team": "Boreham Wood"
+    },
+    {
+     "Home team": "Cambridge Utd.",
+     "Result": "02:01",
+     "Away team": "Bracknell"
+    },
+    {
+     "Home team": "AFC Wimbledon",
+     "Result": "05:01",
+     "Away team": "Cheltenham"
+    },
+    {
+     "Home team": "Swindon Town",
+     "Result": "04:07",
+     "Away team": "Aldershot"
+    },
+    {
+     "Home team": "Reading",
+     "Result": "03:02",
+     "Away team": "MK Dons"
+    },
+    {
+     "Home team": "Notts County",
+     "Result": "03:02",
+     "Away team": "Crawley Town"
+    },
+    {
+     "Home team": "Hereford",
+     "Result": "00:02",
+     "Away team": "Gillingham FC"
+    },
+    {
+     "Time": "10:15 PM",
+     "Home team": "Bromley",
+     "Result": "00:02",
+     "Away team": "Blackpool"
+    },
+    {
+     "Date": "Sun Nov 5, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Mansfield Town",
+     "Result": "01:02",
+     "Away team": "Wrexham"
+    },
+    {
+     "Time": "4:45 PM",
+     "Home team": "Chesterfield FC",
+     "Result": "01:00",
+     "Away team": "Portsmouth"
+    },
+    {
+     "Time": "6:30 PM",
+     "Home team": "Kidderminster",
+     "Result": "01:02",
+     "Away team": "Fleetwood"
+    },
+    {
+     "Home team": "Slough Town",
+     "Result": "01:01",
+     "Away team": "Grimsby Town"
+    },
+    {
+     "Time": "7:15 PM",
+     "Home team": "Crewe Alexandra",
+     "Result": "02:02",
+     "Away team": "Derby"
+    },
+    {
+     "Time": "10:00 PM",
+     "Home team": "Charlton",
+     "Result": "01:01",
+     "Away team": "Cray Valley PM"
+    },
+    {
+     "Date": "Wed Dec 13, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Scarborough",
+     "Result": "02:04",
+     "Away team": "Forest Green",
+     "Column6": " "
+    },
+    {
+     "Date": "Wed Nov 15, 2023",
+     "Time": "12:00 AM",
+     "Home team": "Horsham",
+     "Result": "00:03",
+     "Away team": "Barnsley FC"
+    },
+    {
+     "Home team": "Derby",
+     "Result": "01:03",
+     "Away team": "Crewe Alexandra"
+    },
+    {
+     "Time": "12:15 AM",
+     "Home team": "Salford",
+     "Result": "00:02",
+     "Away team": "Peterborough"
+    },
+    {
+     "Home team": "Burton Albion",
+     "Result": "00:02",
+     "Away team": "Port Vale"
+    },
+    {
+     "Home team": "Grimsby Town",
+     "Result": "07:02",
+     "Away team": "Slough"
+    },
+    {
+     "Home team": "York City",
+     "Result": "02:01",
+     "Away team": "Chester FC"
+    },
+    {
+     "Home team": "Accrington",
+     "Result": "01:02",
+     "Away team": "Doncaster"
+    },
+    {
+     "Home team": "Derby County",
+     "Result": "01:03",
+     "Away team": "Crewe Alexandra"
+    },
+    {
+     "Home team": "Cray Valley PM",
+     "Result": "01:06",
+     "Away team": "Charlton"
+    },
+    {
+     "Date": "Thu Nov 16, 2023",
+     "Time": "12:15 AM",
+     "Home team": "York City",
+     "Result": "00:01",
+     "Away team": "Wigan"
+    },
+    {
+     "Date": "Second Round",
+     "Home team": "Notts County",
+     "Result": "02:03",
+     "Away team": "Shrewsbury"
+    },
+    {
+     "Date": "Sat Dec 2, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Oxford United",
+     "Result": "02:00",
+     "Away team": "Grimsby Town"
+    },
+    {
+     "Date": "Notts County",
+     "Home team": "Gillingham FC",
+     "Result": "02:00",
+     "Away team": "Charlton"
+    },
+    {
+     "Time": "7:30 PM",
+     "Home team": "Wycombe",
+     "Result": "00:02",
+     "Away team": "Morecambe FC"
+    },
+    {
+     "Home team": "Newport County",
+     "Result": "01:01",
+     "Away team": "Barnet"
+    },
+    {
+     "Home team": "Bolton",
+     "Result": "05:01",
+     "Away team": "Harrogate Town"
+    },
+    {
+     "Home team": "Sutton Utd",
+     "Result": "03:00",
+     "Away team": "Horsham"
+    },
+    {
+     "Home team": "Peterborough",
+     "Result": "02:01",
+     "Away team": "Doncaster"
+    },
+    {
+     "Home team": "Maidstone",
+     "Result": "02:01",
+     "Away team": "Barrow"
+    },
+    {
+     "Home team": "Stevenage",
+     "Result": "01:01",
+     "Away team": "Port Vale"
+    },
+    {
+     "Home team": "Cambridge Utd.",
+     "Result": "04:00",
+     "Away team": "Fleetwood"
+    },
+    {
+     "Date": "Sun Dec 3, 2023",
+     "Time": "6:00 PM",
+     "Home team": "Eastleigh",
+     "Result": "02:01",
+     "Away team": "Reading"
+    },
+    {
+     "Time": "6:30 PM",
+     "Home team": "Chesterfield FC",
+     "Result": "01:00",
+     "Away team": "Leyton Orient"
+    },
+    {
+     "Home team": "Aldershot",
+     "Result": "02:02",
+     "Away team": "Stockport"
+    },
+    {
+     "Time": "8:15 PM",
+     "Home team": "Wrexham",
+     "Result": "03:00",
+     "Away team": "Yeovil Town"
+    },
+    {
+     "Date": "Tue Dec 5, 2023",
+     "Time": "12:15 AM",
+     "Home team": "AFC Wimbledon",
+     "Result": "05:00",
+     "Away team": "Ramsgate"
+    },
+    {
+     "Date": "Wed Dec 6, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Alfreton",
+     "Result": "00:00",
+     "Away team": "Walsall"
+    },
+    {
+     "Date": "Wed Dec 13, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Crewe Alexandra",
+     "Result": "02:04",
+     "Away team": "Bristol Rovers"
+    },
+    {
+     "Date": "Wed Dec 20, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Blackpool",
+     "Result": "03:04",
+     "Away team": "Forest Green"
+    },
+    {
+     "Home team": "Barnet",
+     "Result": "01:04",
+     "Away team": "Newport County"
+    },
+    {
+     "Date": "Second Round Replay",
+     "Home team": "Walsall",
+     "Result": "01:00",
+     "Away team": "Alfreton"
+    },
+    {
+     "Date": "Wed Dec 13, 2023",
+     "Time": "12:15 AM",
+     "Home team": "Port Vale",
+     "Result": "06:07",
+     "Away team": "Stevenage"
+    },
+    {
+     "Home team": "Stockport",
+     "Result": "01:04",
+     "Away team": "Aldershot"
+    },
+    {
+     "Date": "Thu Dec 14, 2023",
+     "Time": "12:15 AM"
+    },
+    {
+     "Date": "Third Round"
+    },
+    {
+     "Date": "Fri Jan 5, 2024",
+     "Time": "12:30 AM",
+     "Home team": "Crystal Palace",
+     "Result": "00:00",
+     "Away team": "Everton"
+    },
+    {
+     "Date": "Sat Jan 6, 2024",
+     "Time": "11:45 PM",
+     "Home team": "Brentford",
+     "Result": "01:01",
+     "Away team": "Wolves"
+    },
+    {
+     "Time": "12:00 AM",
+     "Home team": "Fulham FC",
+     "Result": "01:00",
+     "Away team": "Rotherham"
+    },
+    {
+     "Time": "12:30 AM",
+     "Home team": "Tottenham Hotspur",
+     "Result": "01:00",
+     "Away team": "Burnley"
+    },
+    {
+     "Time": "5:00 PM",
+     "Home team": "AFC Wimbledon",
+     "Result": "01:03",
+     "Away team": "Ipswich"
+    },
+    {
+     "Home team": "Stevenage FC",
+     "Result": "01:00",
+     "Away team": "Stevenage"
+    },
+    {
+     "Home team": "Oxford United",
+     "Result": "06:02",
+     "Away team": "Oxford United"
+    },
+    {
+     "Home team": "Leicester City",
+     "Result": "02:03",
+     "Away team": "Leicester"
+    },
+    {
+     "Time": "5:15 PM",
+     "Home team": "Sunderland AFC",
+     "Result": "00:03",
+     "Away team": "Newcastle"
+    },
+    {
+     "Time": "7:30 PM",
+     "Home team": "Plymouth Argyle",
+     "Result": "03:01",
+     "Away team": "Sutton Utd"
+    },
+    {
+     "Home team": "Blackburn",
+     "Result": "05:02",
+     "Away team": "Cambridge Utd."
+    },
+    {
+     "Home team": "Southampton",
+     "Result": "04:00",
+     "Away team": "Walsall"
+    },
+    {
+     "Home team": "Hull City",
+     "Result": "01:01",
+     "Away team": "Birmingham"
+    },
+    {
+     "Home team": "Watford",
+     "Result": "02:01",
+     "Away team": "Chesterfield FC"
+    },
+    {
+     "Home team": "Norwich",
+     "Result": "01:01",
+     "Away team": "Bristol Rovers"
+    },
+    {
+     "Home team": "QPR",
+     "Result": "02:03",
+     "Away team": "Bournemouth"
+    },
+    {
+     "Home team": "Gillingham FC",
+     "Result": "00:04",
+     "Away team": "Sheff Utd"
+    },
+    {
+     "Home team": "Stoke City",
+     "Result": "02:04",
+     "Away team": "Brighton"
+    },
+    {
+     "Home team": "Newport County",
+     "Result": "01:01",
+     "Away team": "Eastleigh"
+    },
+    {
+     "Time": "10:00 PM",
+     "Home team": "Chelsea FC",
+     "Result": "04:00",
+     "Away team": "Preston"
+    },
+    {
+     "Home team": "Sheff Wed",
+     "Result": "04:00",
+     "Away team": "Cardiff"
+    },
+    {
+     "Home team": "Middlesbrough",
+     "Result": "00:01",
+     "Away team": "Aston Villa"
+    },
+    {
+     "Home team": "Swansea",
+     "Result": "02:00",
+     "Away team": "Morecambe FC"
+    },
+    {
+     "Date": "Sun Jan 7, 2024",
+     "Time": "6:30 PM",
+     "Result": "05:00",
+     "Away team": "Huddersfield"
+    },
+    {
+     "Home team": "Peterborough",
+     "Result": "00:03",
+     "Away team": "Leeds"
+    },
+    {
+     "Home team": "West Brom",
+     "Result": "04:01",
+     "Away team": "Aldershot"
+    },
+    {
+     "Home team": "Luton",
+     "Result": "00:00",
+     "Away team": "Bolton"
+    },
+    {
+     "Home team": "Nottm Forest",
+     "Result": "02:02",
+     "Away team": "Blackpool"
+    },
+    {
+     "Home team": "Shrewsbury",
+     "Result": "00:01",
+     "Away team": "Wrexham"
+    },
+    {
+     "Home team": "West Ham",
+     "Result": "01:01",
+     "Away team": "Bristol City"
+    },
+    {
+     "Time": "9:00 PM",
+     "Home team": "Arsenal",
+     "Result": "00:02",
+     "Away team": "Liverpool"
+    },
+    {
+     "Date": "Tue Jan 9, 2024",
+     "Time": "12:45 AM",
+     "Home team": "Wigan",
+     "Result": "00:02",
+     "Away team": "Manchester City"
+    },
+    {
+     "Date": "Wed Jan 17, 2024",
+     "Time": "12:00 AM",
+     "Home team": "Wolves",
+     "Result": "03:02",
+     "Away team": "Brentford"
+    },
+    {
+     "Home team": "Birmingham",
+     "Result": "02:01",
+     "Away team": "Hull City"
+    },
+    {
+     "Time": "12:15 AM",
+     "Home team": "Bristol City",
+     "Result": "01:00",
+     "Away team": "West Ham"
+    },
+    {
+     "Home team": "Bolton",
+     "Result": "01:02",
+     "Away team": "Luton"
+    },
+    {
+     "Home team": "Eastleigh",
+     "Result": "01:03",
+     "Away team": "Newport County"
+    },
+    {
+     "Home team": "Bristol Rovers",
+     "Result": "01:03",
+     "Away team": "Norwich"
+    },
+    {
+     "Home team": "Blackpool",
+     "Result": "02:03",
+     "Away team": "Nottm Forest"
+    },
+    {
+     "Date": "Thu Jan 18, 2024",
+     "Time": "12:15 AM",
+     "Home team": "Everton",
+     "Result": "01:00",
+     "Away team": "Crystal Palace"
+    },
+    {
+     "Date": "Fri Jan 26, 2024",
+     "Time": "12:15 AM",
+     "Home team": "Bournemouth",
+     "Result": "05:00",
+     "Away team": "Swansea"
+    },
+    {
+     "Date": "Sat Jan 27, 2024",
+     "Time": "12:15 AM",
+     "Home team": "Sheff Wed",
+     "Result": "01:01",
+     "Away team": "Coventry"
+    },
+    {
+     "Home team": "Chelsea",
+     "Result": "00:00",
+     "Away team": "Aston Villa"
+    },
+    {
+     "Home team": "Bristol City",
+     "Result": "00:00",
+     "Away team": "Nottm Forest"
+    },
+    {
+     "Time": "12:30 AM",
+     "Home team": "Tottenham",
+     "Result": "00:01",
+     "Away team": "Manchester City"
+    },
+    {
+     "Time": "5:00 PM",
+     "Home team": "Ipswich Town",
+     "Result": "01:02",
+     "Away team": "Maidstone"
+    },
+    {
+     "Time": "7:30 PM",
+     "Home team": "Leicester City",
+     "Result": "03:00",
+     "Away team": "Birmingham"
+    },
+    {
+     "Home team": "Leeds",
+     "Result": "01:01",
+     "Away team": "Plymouth"
+    },
+    {
+     "Home team": "Sheff Utd",
+     "Result": "02:05",
+     "Away team": "Brighton"
+    },
+    {
+     "Home team": "Everton",
+     "Result": "01:02",
+     "Away team": "Luton"
+    },
+    {
+     "Date": "Sun Jan 28, 2024",
+     "Time": "11:30 PM",
+     "Home team": "Fulham",
+     "Away team": "Newcastle"
+    },
+    {
+     "Time": "4:15 PM",
+     "Home team": "West Brom",
+     "Result": "00:02",
+     "Away team": "Wolves"
+    },
+    {
+     "Time": "6:30 PM",
+     "Home team": "Watford",
+     "Result": "01:01",
+     "Away team": "Southampton"
+    },
+    {
+     "Time": "7:00 PM",
+     "Home team": "Liverpool",
+     "Result": "05:02",
+     "Away team": "Norwich"
+    },
+    {
+     "Time": "9:00 PM",
+     "Home team": "Newport County",
+     "Result": "02:04",
+     "Away team": "Manchester City\n"
+    },
+    {
+     "Date": "Tue Jan 30, 2024",
+     "Time": "12:00 AM",
+     "Home team": "Blackburn",
+     "Result": "04:01",
+     "Away team": "Wrexham"
+    },
+    {
+     "Date": "4th round deciders"
+    },
+    {
+     "Time": "12:15 AM",
+     "Home team": "Plymouth",
+     "Result": "01:04",
+     "Away team": "Leeds"
+    },
+    {
+     "Home team": "Coventry City",
+     "Result": "04:01",
+     "Away team": "Sheff Wed"
+    },
+    {
+     "Home team": "Southampton",
+     "Result": "03:00",
+     "Away team": "Watford"
+    },
+    {
+     "Date": "Thu Feb 8, 2024",
+     "Time": "12:15 AM",
+     "Home team": "Nottm Forest",
+     "Result": "06:04",
+     "Away team": "Bristol City"
+    },
+    {
+     "Time": "12:30 AM",
+     "Home team": "Aston Villa",
+     "Result": "01:03",
+     "Away team": "Chelsea"
+    },
+    {
+     "Date": "Fifth Round"
+    },
+    {
+     "Date": "Tue Feb 27, 2024",
+     "Time": "12:15 AM",
+     "Home team": "Coventry",
+     "Result": "05:00",
+     "Away team": "Maidstone"
+    },
+    {
+     "Date": "Wed Feb 28, 2024",
+     "Time": "12:00 AM",
+     "Home team": "Bournemouth",
+     "Result": "00:01",
+     "Away team": "Leicester"
+    },
+    {
+     "Time": "12:15 AM",
+     "Home team": "Blackburn",
+     "Result": "04:05",
+     "Away team": "Newcastle"
+    },
+    {
+     "Time": "12:30 AM",
+     "Home team": "Luton",
+     "Result": "02:06",
+     "Away team": "Manchester City\n"
+    },
+    {
+     "Date": "Thu Feb 29, 2024",
+     "Time": "12:00 AM",
+     "Home team": "Chelsea",
+     "Result": "03:02",
+     "Away team": "Leeds"
+    },
+    {
+     "Time": "12:15 AM",
+     "Home team": "Nottm Forest",
+     "Result": "00:01",
+     "Away team": "Manchester City\n"
+    },
+    {
+     "Home team": "Wolves",
+     "Result": "01:00",
+     "Away team": "Brighton"
+    },
+    {
+     "Time": "12:30 AM",
+     "Home team": "Liverpool FC",
+     "Result": "03:00",
+     "Away team": "Southampton"
+    },
+    {
+     "Date": "Quarter-Finals"
+    },
+    {
+     "Date": "Sat Mar 16, 2024",
+     "Time": "4:45 PM",
+     "Home team": "Wolves",
+     "Result": "02:03",
+     "Away team": "Coventry"
+    },
+    {
+     "Time": "10:00 PM",
+     "Home team": "Manchester City",
+     "Result": "02:00",
+     "Away team": "Newcastle"
+    },
+    {
+     "Date": "Sun Mar 17, 2024",
+     "Time": "5:15 PM",
+     "Home team": "Chelsea",
+     "Result": "04:02",
+     "Away team": "Leicester"
+    },
+    {
+     "Time": "8:00 PM",
+     "Home team": "Manchester United",
+     "Result": "04:03",
+     "Away team": "Liverpool"
+    },
+    {
+     "Date": "Semi-Finals"
+    },
+    {
+     "Date": "Sat Apr 20, 2024",
+     "Time": "9:45 PM",
+     "Home team": "Manchester City",
+     "Result": "01:00",
+     "Away team": "Chelsea"
+    },
+    {
+     "Date": "Sun Apr 21, 2024",
+     "Time": "8:00 PM",
+     "Home team": "Coventry",
+     "Result": "05:07",
+     "Away team": "Manchester United"
+    },
+    {
+     "Date": "Sat May 25, 2024",
+     "Time": "7:30 PM",
+     "Home team": "Manchester City",
+     "Result": "01:02",
+     "Away team": "Manchester United"
+    }
+   ],
+  "PremierLeagueTable": [
+    {
+      "Team": "Manchester City",
+      "Played": 7,
+      "Won": 5,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 19,
+      "GA": 5,
+      "GD": 14,
+      "Points": 16,
+      "Form": "W,W,W,W,L,W"
+    },
+    {
+      "Team": "Manchester United",
+      "Played": 7,
+      "Won": 5,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 15,
+      "GA": 9,
+      "GD": 6,
+      "Points": 16,
+      "Form": "W,W,W,L,W,W"
+    },
+    {
+      "Team": "Coventry City",
+      "Played": 7,
+      "Won": 5,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 16,
+      "GA": 8,
+      "GD": 8,
+      "Points": 15,
+      "Form": "W, W, W, W, L, L"
+    },
+    {
+      "Team": "Chelsea FC",
+      "Played": 7,
+      "Won": 4,
+      "Drawn": 2,
+      "Lost": 1,
+      "GF": 17,
+      "GA": 9,
+      "GD": 8,
+      "Points": 14,
+      "Form": "W, D, W, D, W, W"
+    },
+    {
+      "Team": "Wolverhampton Wanderers",
+      "Played": 7,
+      "Won": 4,
+      "Drawn": 2,
+      "Lost": 1,
+      "GF": 11,
+      "GA": 8,
+      "GD": 3,
+      "Points": 14,
+      "Form": "D, W, W, D, W, W"
+    },
+    {
+      "Team": "Liverpool FC",
+      "Played": 7,
+      "Won": 4,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 17,
+      "GA": 11,
+      "GD": 6,
+      "Points": 13,
+      "Form": "W, W, W, L, L, W"
+    },
+    {
+      "Team": "Newcastle United",
+      "Played": 7,
+      "Won": 4,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 11,
+      "GA": 11,
+      "GD": 0,
+      "Points": 12,
+      "Form": "W, W, D, L, L, W"
+    },
+    {
+      "Team": "Leicester City",
+      "Played": 6,
+      "Won": 3,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 10,
+      "GA": 8,
+      "GD": 2,
+      "Points": 10,
+      "Form": "W, D, W, L, W, L"
+    },
+    {
+      "Team": "Brighton & Hove Albion",
+      "Played": 5,
+      "Won": 3,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 9,
+      "GA": 5,
+      "GD": 4,
+      "Points": 10,
+      "Form": "W, W, L, D, W"
+    },
+    {
+      "Team": "Blackburn Rovers",
+      "Played": 5,
+      "Won": 3,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 13,
+      "GA": 6,
+      "GD": 7,
+      "Points": 10,
+      "Form": "W, W, D, W, L"
+    },
+    {
+      "Team": "Leeds United",
+      "Played": 5,
+      "Won": 3,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 12,
+      "GA": 8,
+      "GD": 4,
+      "Points": 10,
+      "Form": "W, W, L, W, D"
+    },
+    {
+      "Team": "Southampton FC",
+      "Played": 5,
+      "Won": 3,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 11,
+      "GA": 5,
+      "GD": 6,
+      "Points": 9,
+      "Form": "W, W, L, W, L"
+    },
+    {
+      "Team": "AFC Wimbledon",
+      "Played": 5,
+      "Won": 3,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 11,
+      "GA": 8,
+      "GD": 3,
+      "Points": 9,
+      "Form": "W, W, L, L, W"
+    },
+    {
+      "Team": "Luton Town",
+      "Played": 6,
+      "Won": 3,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 8,
+      "GA": 8,
+      "GD": 0,
+      "Points": 9,
+      "Form": "W, W, L, L, L, D"
+    },
+    {
+      "Team": "West Bromwich Albion",
+      "Played": 4,
+      "Won": 2,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 7,
+      "GA": 6,
+      "GD": 1,
+      "Points": 6,
+      "Form": "W, L, L, W"
+    },
+    {
+      "Team": "Aston Villa",
+      "Played": 4,
+      "Won": 2,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 5,
+      "GA": 6,
+      "GD": -1,
+      "Points": 6,
+      "Form": "W, L, W, L"
+    },
+    {
+      "Team": "Sunderland AFC",
+      "Played": 4,
+      "Won": 2,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 7,
+      "GA": 9,
+      "GD": -2,
+      "Points": 6,
+      "Form": "L, W, L, W"
+    },
+    {
+      "Team": "Derby County",
+      "Played": 5,
+      "Won": 2,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 7,
+      "GA": 7,
+      "GD": 0,
+      "Points": 7,
+      "Form": "D, L, W, W, L"
+    },
+    {
+      "Team": "Wigan Athletic",
+      "Played": 4,
+      "Won": 2,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 7,
+      "GA": 6,
+      "GD": 1,
+      "Points": 6,
+      "Form": "W, L, W, L"
+    },
+    {
+      "Team": "Ipswich Town",
+      "Played": 5,
+      "Won": 2,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 7,
+      "GA": 12,
+      "GD": -5,
+      "Points": 6,
+      "Form": "L, W, W, L, L"
+    },
+    {
+      "Team": "Port Vale FC",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 2,
+      "Lost": 2,
+      "GF": 4,
+      "GA": 7,
+      "GD": -3,
+      "Points": 5,
+      "Form": "L, D, D, W, L"
+    },
+    {
+      "Team": "Eastleigh FC",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 9,
+      "GA": 14,
+      "GD": -5,
+      "Points": 4,
+      "Form": "L, W, L, L, L"
+    },
+    {
+      "Team": "Shrewsbury Town",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 9,
+      "GA": 12,
+      "GD": -3,
+      "Points": 4,
+      "Form": "L, W, L, L, L"
+    },
+    {
+      "Team": "Barnet FC",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 4,
+      "GA": 9,
+      "GD": -5,
+      "Points": 4,
+      "Form": "L, L, W, L, D"
+    },
+    {
+      "Team": "Morecambe FC",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 4,
+      "GA": 8,
+      "GD": -4,
+      "Points": 4,
+      "Form": "D, W, L, L"
+    },
+    {
+      "Team": "Notts County",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 4,
+      "GA": 7,
+      "GD": -3,
+      "Points": 4,
+      "Form": "W, L, L, D"
+    },
+    {
+      "Team": "Barnsley FC",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 6,
+      "GA": 10,
+      "GD": -4,
+      "Points": 4,
+      "Form": "L, D, W, L"
+    },
+    {
+      "Team": "Charlton Athletic",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 4,
+      "GA": 8,
+      "GD": -4,
+      "Points": 4,
+      "Form": "L, L, W, D"
+    },
+    {
+      "Team": "Cambridge United",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 7,
+      "GA": 12,
+      "GD": -5,
+      "Points": 4,
+      "Form": "L, D, L, W, L"
+    },
+    {
+      "Team": "Bristol Rovers",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 12,
+      "GA": 14,
+      "GD": -2,
+      "Points": 4,
+      "Form": "L, W, L, D, L"
+    },
+    {
+      "Team": "Crewe Alexandra",
+      "Played": 5,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 3,
+      "GF": 8,
+      "GA": 11,
+      "GD": -3,
+      "Points": 4,
+      "Form": "D, W, L, L, L"
+    },
+    {
+      "Team": "Wycombe Wanderers",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 2,
+      "GF": 4,
+      "GA": 8,
+      "GD": -4,
+      "Points": 4,
+      "Form": "L, L, W, D"
+    },
+    {
+      "Team": "Sheffield United",
+      "Played": 3,
+      "Won": 1,
+      "Drawn": 1,
+      "Lost": 1,
+      "GF": 4,
+      "GA": 4,
+      "GD": 0,
+      "Points": 4,
+      "Form": "L, W, D"
+    },
+    {
+      "Team": "Fleetwood Town",
+      "Played": 3,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 2,
+      "GF": 3,
+      "GA": 5,
+      "GD": -2,
+      "Points": 3,
+      "Form": "L, W, L"
+    },
+    {
+      "Team": "Walsall FC",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 5,
+      "GA": 9,
+      "GD": -4,
+      "Points": 3,
+      "Form": "L, W, L, L"
+    },
+    {
+      "Team": "Harrogate Town",
+      "Played": 2,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 1,
+      "GF": 5,
+      "GA": 6,
+      "GD": -1,
+      "Points": 3,
+      "Form": "W, L"
+    },
+    {
+      "Team": "Sutton United",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 5,
+      "GA": 11,
+      "GD": -6,
+      "Points": 3,
+      "Form": "L, W, L, L"
+    },
+    {
+      "Team": "Stockport County",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 7,
+      "GA": 11,
+      "GD": -4,
+      "Points": 3,
+      "Form": "W, L, L, L"
+    },
+    {
+      "Team": "Maidstone United",
+      "Played": 4,
+      "Won": 1,
+      "Drawn": 0,
+      "Lost": 3,
+      "GF": 4,
+      "GA": 7,
+      "GD": -3,
+      "Points": 3,
+      "Form": "W, L, L, L"
+    },
+    {
+      "Team": "Bromley FC",
+      "Played": 1,
+      "Won": 0,
+      "Drawn": 0,
+      "Lost": 1,
+      "GF": 0,
+      "GA": 2,
+      "GD": -2,
+      "Points": 0,
+      "Form": "L"
+    }
+  ],
+  "PremierLeagueTopScorers":[
+    {
+      "Rank": 1,
+      "Name": "Ellis Simms",
+      "Club Name": "Coventry City",
+      "GoalsGL": 6,
+      "AssistsA": 3,
+      "PlayedP": 6,
+      "Goals per 90": 1.17,
+      "Mins per GoalMPG": 77,
+      "Total Shots": 16,
+      "Goal Conversion": "38%",
+      "Shot Accuracy": "69%"
+    },
+    {
+      "Rank": 1,
+      "Name": "Sammie Szmodics",
+      "Club Name": "Blackburn Rovers",
+      "GoalsGL": 6,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1.81,
+      "Mins per GoalMPG": 50,
+      "Total Shots": 20,
+      "Goal Conversion": "30%",
+      "Shot Accuracy": "70%"
+    },
+    {
+
+      "Rank": 3,
+      "Name": "João Pedro",
+      "Club Name": "Brighton & Hove Albion",
+      "GoalsGL": 5,
+      "AssistsA": 0,
+      "PlayedP": 2,
+      "Goals per 90": 2.6,
+      "Mins per GoalMPG": 35,
+      "Total Shots": 6,
+      "Goal Conversion": "83%",
+      "Shot Accuracy": "83%"
+    },
+    {
+      "Rank": 3,
+      "Name": "Erling Haaland",
+      "Club Name": "Manchester City",
+      "GoalsGL": 5,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1.77,
+      "Mins per GoalMPG": 51,
+      "Total Shots": 11,
+      "Goal Conversion": "45%",
+      "Shot Accuracy": "64%"
+    },
+    {
+      "Rank": 5,
+      "Name": "Kyle Wootton",
+      "Club Name": "Stockport County",
+      "GoalsGL": 4,
+      "AssistsA": 1,
+      "PlayedP": 3,
+      "Goals per 90": 1.33,
+      "Mins per GoalMPG": 68,
+      "Total Shots": 6,
+      "Goal Conversion": "67%",
+      "Shot Accuracy": "83%"
+    },
+    {
+      "Rank": 5,
+      "Name": "Callum O'Hare",
+      "Club Name": "Coventry City",
+      "GoalsGL": 4,
+      "AssistsA": 1,
+      "PlayedP": 5,
+      "Goals per 90": 1.09,
+      "Mins per GoalMPG": 82,
+      "Total Shots": 11,
+      "Goal Conversion": "36%",
+      "Shot Accuracy": "73%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Bruno Fernandes",
+      "Club Name": "Manchester United",
+      "GoalsGL": 3,
+      "AssistsA": 3,
+      "PlayedP": 6,
+      "Goals per 90": 0.45,
+      "Mins per GoalMPG": 200,
+      "Total Shots": 20,
+      "Goal Conversion": "15%",
+      "Shot Accuracy": "50%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Joshua Stokes",
+      "Club Name": "Aldershot Town",
+      "GoalsGL": 3,
+      "AssistsA": 2,
+      "PlayedP": 3,
+      "Goals per 90": 1.08,
+      "Mins per GoalMPG": 84,
+      "Total Shots": 7,
+      "Goal Conversion": "43%",
+      "Shot Accuracy": "86%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Shane McLoughlin",
+      "Club Name": "Newport County",
+      "GoalsGL": 3,
+      "AssistsA": 2,
+      "PlayedP": 6,
+      "Goals per 90": 0.5,
+      "Mins per GoalMPG": 180,
+      "Total Shots": 7,
+      "Goal Conversion": "43%",
+      "Shot Accuracy": "71%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Ali Al HamadiAl",
+      "Club Name": "AFC Wimbledon",
+      "GoalsGL": 3,
+      "AssistsA": 1,
+      "PlayedP": 2,
+      "Goals per 90": 1.76,
+      "Mins per GoalMPG": 51,
+      "Total Shots": 5,
+      "Goal Conversion": "60%",
+      "Shot Accuracy": "80%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Jack Barham",
+      "Club Name": "Aldershot Town",
+      "GoalsGL": 3,
+      "AssistsA": 1,
+      "PlayedP": 4,
+      "Goals per 90": 0.93,
+      "Mins per GoalMPG": 96,
+      "Total Shots": 7,
+      "Goal Conversion": "43%",
+      "Shot Accuracy": "86%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Chris Maguire",
+      "Club Name": "Eastleigh",
+      "GoalsGL": 3,
+      "AssistsA": 1,
+      "PlayedP": 4,
+      "Goals per 90": 0.75,
+      "Mins per GoalMPG": 120,
+      "Total Shots": 7,
+      "Goal Conversion": "43%",
+      "Shot Accuracy": "71%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Bernardo Silva",
+      "Club Name": "Manchester City",
+      "GoalsGL": 3,
+      "AssistsA": 1,
+      "PlayedP": 5,
+      "Goals per 90": 0.62,
+      "Mins per GoalMPG": 146,
+      "Total Shots": 7,
+      "Goal Conversion": "43%",
+      "Shot Accuracy": "71%"
+    },
+    {
+      "Rank": 7,
+      "Name": "William Osula",
+      "Club Name": "Sheffield United",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 2,
+      "Goals per 90": 2,
+      "Mins per GoalMPG": 45,
+      "Total Shots": 5,
+      "Goal Conversion": "60%",
+      "Shot Accuracy": "60%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Jón Bödvarsson",
+      "Club Name": "Bolton Wanderers",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 4,
+      "Goals per 90": 1.64,
+      "Mins per GoalMPG": 55,
+      "Total Shots": 8,
+      "Goal Conversion": "38%",
+      "Shot Accuracy": "88%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Billy Bodin",
+      "Club Name": "Oxford UnitedOxford",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1.56,
+      "Mins per GoalMPG": 58,
+      "Total Shots": 9,
+      "Goal Conversion": "33%",
+      "Shot Accuracy": "78%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Ryan Bowman",
+      "Club Name": "Shrewsbury Town",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1.45,
+      "Mins per GoalMPG": 62,
+      "Total Shots": 5,
+      "Goal Conversion": "60%",
+      "Shot Accuracy": "80%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Aaron Rowe",
+      "Club Name": "Crewe AlexandraCrewe",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1.36,
+      "Mins per GoalMPG": 66,
+      "Total Shots": 5,
+      "Goal Conversion": "60%",
+      "Shot Accuracy": "60%"
+    },
+    {
+     "Rank": 7,
+      "Name": "Paul McCallum",
+      "Club Name": "Eastleigh",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 3,
+      "Goals per 90": 1,
+      "Mins per GoalMPG": 90,
+      "Total Shots": 6,
+      "Goal Conversion": "50%",
+      "Shot Accuracy": "83%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Haji Wright",
+      "Club Name": "Coventry City",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 5,
+      "Goals per 90": 0.8,
+      "Mins per GoalMPG": 113,
+      "Total Shots": 13,
+      "Goal Conversion": "23%",
+      "Shot Accuracy": "46%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Sékou Mara",
+      "Club Name": "Southampton",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 4,
+      "Goals per 90": 0.78,
+      "Mins per GoalMPG": 115,
+      "Total Shots": 11,
+      "Goal Conversion": "27%",
+      "Shot Accuracy": "55%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Jamie Reid",
+      "Club Name": "Stevenage",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 4,
+      "Goals per 90": 0.69,
+      "Mins per GoalMPG": 130,
+      "Total Shots": 8,
+      "Goal Conversion": "38%",
+      "Shot Accuracy": "63%"
+    },
+    {
+      "Rank": 7,
+      "Name": "Sam Corne",
+      "Club Name": "Maidstone United",
+      "GoalsGL": 3,
+      "AssistsA": 0,
+      "PlayedP": 5,
+      "Goals per 90": 0.6,
+      "Mins per GoalMPG": 150,
+      "Total Shots": 4,
+      "Goal Conversion": "75%",
+      "Shot Accuracy": "75%"
+    },
+    {
+      "Rank": 24,
+      "Name": "Sam Dalby",
+      "Club Name": "Wrexham",
+      "GoalsGL": 2,
+      "AssistsA": 3,
+      "PlayedP": 4,
+      "Goals per 90": 0.92,
+      "Mins per GoalMPG": 98,
+      "Total Shots": 6,
+      "Goal Conversion": "33%",
+      "Shot Accuracy": "83%"
+    },
+    {
+      "Rank": 24,
+      "Name": "Kasey Palmer",
+      "Club Name": "Coventry City",
+      "GoalsGL": 2,
+      "AssistsA": 3,
+      "PlayedP": 5,
+      "Goals per 90": 0.5,
+      "Mins per GoalMPG": 179,
+      "Total Shots": 11,
+      "Goal Conversion": "18%",
+      "Shot Accuracy": "64%"
+    }
+  ]
+}
+
